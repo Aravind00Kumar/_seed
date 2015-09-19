@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aravind00Kumar/_seed.git"
+    "url": "git+https://github.com/Aravind00Kumar/angular2-seed.git"
   },
   "author": "Aravind Kumar P",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Aravind00Kumar/_seed/issues"
+    "url": "https://github.com/Aravind00Kumar/angular2-seed/issues"
   },
-  "homepage": "https://github.com/Aravind00Kumar/_seed#readme"
+  "homepage": "https://github.com/Aravind00Kumar/angular2-seed#readme"
 }

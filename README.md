@@ -4,7 +4,7 @@ Angularjs 2.0 seed project in typescript and Visual Studio Code Ediror
 # How to setup
 
 - Clone repository
-	* `git clone https://github.com/Aravind00Kumar/_seed.git`
+	* `git clone https://github.com/Aravind00Kumar/angular2-seed.git`
 
 - Install npm global packages
 	* `npm install typescript tsd gulp -g`	
