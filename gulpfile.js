@@ -15,9 +15,9 @@ var PATHS = {
     lib: [
         'node_modules/angular2/node_modules/traceur/bin/traceur-runtime.js',
         'node_modules/angular2/node_modules/rx/dist/rx.js',
-        'node_modules/reflect-metadata/Reflect.js',
-        'node_modules/zone.js/dist/zone.js',
-        'node_modules/zone.js/dist/long-stack-trace-zone.js',
+//        'node_modules/reflect-metadata/Reflect.js',
+//        'node_modules/zone.js/dist/zone.js',
+//        'node_modules/zone.js/dist/long-stack-trace-zone.js',
         '!node_modules/systemjs/dist/*.src.js',
         'node_modules/systemjs/dist/*.js'
     ],
