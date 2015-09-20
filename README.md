@@ -1,5 +1,6 @@
-# Angularjs 2.0 seed
-Angularjs 2.0 seed project with typescript in Visual Studio Code Editor
+
+# Angular 2.0 seed
+A basic angular 2.0 seed project in typescript with Visual Studio Code Editor
 
 # How to setup
 - Download Visual Studio Code Editor
